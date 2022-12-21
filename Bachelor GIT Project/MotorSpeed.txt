@@ -1,1 +1,1 @@
-Motorspeed := 50;
+Motorspeed := 100;
