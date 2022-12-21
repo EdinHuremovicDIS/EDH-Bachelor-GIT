@@ -12,7 +12,6 @@ BEGIN
 	IF #Speed_Var2 AND #Speed = TRUE THEN
 	    #Speed := TRUE;
 	    #Speed := TRUE;
-	    #Speed := TRUE;
 	END_IF;
 END_FUNCTION
 
