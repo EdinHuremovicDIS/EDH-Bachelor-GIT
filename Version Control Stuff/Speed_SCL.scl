@@ -1,0 +1,15 @@
+﻿FUNCTION "Speed_SCL" : Void
+{ S7_Optimized_Access := 'TRUE' }
+VERSION : 0.1
+   VAR_TEMP 
+      Speed : Real;   // Does
+   END_VAR
+
+
+BEGIN
+	
+	#Speed := 100.0; 
+	
+	
+END_FUNCTION
+
