@@ -8,7 +8,7 @@ VERSION : 0.1
 
 BEGIN
 	
-	#Speed := 200.0; 
+	#Speed := 300.0; 
 	
 	
 END_FUNCTION
